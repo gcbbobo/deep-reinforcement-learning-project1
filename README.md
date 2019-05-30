@@ -9,10 +9,10 @@ Collecting a yellow banana: reward +1
 
 Collecting a blue banana:   reward -1
 
-##### State:
+#### State:
 The state space has 37 dimensions including the velocity of the agent and the position information of surrounding objects.
 
-##### Action:
+#### Action:
 4 discrete actions available:
 
 0 - move forward.
@@ -23,32 +23,32 @@ The state space has 37 dimensions including the velocity of the agent and the po
 
 3 - turn right.
 
-##### Target:
+#### Target:
 An average score of +13 over 100 consecutive episodes.
 
 ## 2. Installation
-##### Anaconda Installation and Virtual Environment Setup
+#### Anaconda Installation and Virtual Environment Setup
 Follow the instructions listed: 
 
 https://inmachineswetrust.com/posts/deep-learning-setup/
 
 Be sure to work with python 3.x. As far as I can remember, I particularly downloaded python 3.6.8 to work with ML-Agents and I am not sure which versions would also work well.
 
-##### CUDA and cuDNN
+#### CUDA and cuDNN
 If GPU available, go to the official website for CUDA and cuDNN.Download packages that corresponding to the GPU. 
 
 For GPU Training using The ML-Agents Toolkit, only CUDA v9.0 and cuDNN v7.0.5 is supported at present.
 
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Windows.md
 
-##### TensorFlow
+#### TensorFlow
 For ml agent:
 
 `pip install tensorflow==1.7.1`
 
 `pip install tensorflow-gpu==1.7.1`
 
-##### PyTorch
+#### PyTorch
 Follow the official guide:
 
 https://pytorch.org/get-started/locally/
@@ -65,12 +65,12 @@ Some commands taken by myself:
 
 My PyTorch version for CPU is 1.0.1.
 
-##### Box2d
+#### Box2d
 `conda install swig` # needed to build Box2D in the pip install
 
 `pip install box2d-py` # a repackaged version of pybox2d
 
-##### pip3
+#### pip3
 Use conda and cd to the dictionary of any (virtual) environment.
 
 In my case, 2 virtual environments are set up in addition to the root environment. Their locations are:
@@ -93,7 +93,7 @@ Then type:
 
 Repeat this process for each environment.
 
-##### Unity
+#### Unity
 https://unity.com/
 
 The version of Unity should be compatible with Python or something interesting may show up like:
@@ -110,7 +110,7 @@ One feasible solution seems to be using "pip3" command instead of "pip" during i
 
 Personally, I downloaded Unity 2018.2.8f1 and it works well with all the other packages. 
 
-##### ML-Agent
+#### ML-Agent
 Thank to Rahul's kind assistance, I just follow some instructions provided by:
 
 https://github.com/reinforcement-learning-kr/pg_travel/wiki/Installing-Unity-ml-agents-on-Windows
