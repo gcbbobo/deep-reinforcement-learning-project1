@@ -2,6 +2,8 @@
 ## 1. The Environment
 The target of the project is to train an agent to navigate around a square world and collect yellow bananas as many as possible while avoiding the blue ones.
 
+![image](https://github.com/gcbbobo/deep-reinforcement-learning-project1/blob/master/banana.gif)
+
 ### Reward:
 Collecting a yellow banana: reward +1
 Collecting a blue banana:   reward -1
