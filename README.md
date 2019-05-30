@@ -111,7 +111,7 @@ One feasible solution seems to be using "pip3" command instead of "pip" during i
 Personally, I downloaded Unity 2018.2.8f1 and it works well with all the other packages. 
 
 #### ML-Agent
-Thank to Rahul's kind assistance, I just follow some instructions provided by:
+Thank to Rahul's kind assistance, I just follow instructions provided by:
 
 https://github.com/reinforcement-learning-kr/pg_travel/wiki/Installing-Unity-ml-agents-on-Windows
 
@@ -126,6 +126,11 @@ https://drive.google.com/file/d/1eguoN8lslH5qmRKJoBGKoyyVSSnH835E/view?usp=shari
 ## 3.Instructions
 The following codes are developed based on the sample codes provided by Udacity. 
 Navigation.ipynb + dqn_agent.py + model.py : Vanilla Deep Q-Network
-Just run the cells in Navigation.ipynb to see the result.
-
+Run the cells in Navigation.ipynb to see the result.
+Navigation_doubleDQN.ipynb + dqn_agent_doubleDQN.py + model.py: Double Deep Q-Network
+Run Navigation_doubleDQN.ipynb.
+Navigation_dualDQN.ipynb + dqn_agent_dualDQN.py + model_dualDQN.py: Dual Network Architecture for Vanilla Deep Q-Network
+Run Navigation_dualDQN.ipynb.
+Some details can also be checked on the link below which I find helpful for beginners, though the steps seem to be self-evident:
+https://github.com/dxyang/DQN_pytorch
 
