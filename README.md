@@ -38,9 +38,9 @@ https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Wi
 
 ### TensorFlow: 
 For ml agent:
-'<pip install tensorflow==1.7.1
+`<pip install tensorflow==1.7.1
 
-pip install tensorflow-gpu==1.7.1>'
+pip install tensorflow-gpu==1.7.1>`
 
 ### PyTorch:
 Follow the official guide:
@@ -51,18 +51,18 @@ Download the CPU version.
 
 Some commands taken by myself:
 
-conda install pytorch-cpu torchvision-cpu -c pytorch
+`<conda install pytorch-cpu torchvision-cpu -c pytorch
 
 pip install --user https://download.pytorch.org/whl/cu100/torch-1.0.1-cp36-cp36m-win_amd64.whl
 
-pip install --user torchvision
+pip install --user torchvision>`
 
 My PyTorch version for CPU is 1.0.1.
 
 ### Box2d:
-conda install swig # needed to build Box2D in the pip install
+`<conda install swig>` # needed to build Box2D in the pip install
 
-pip install box2d-py # a repackaged version of pybox2d
+`<pip install box2d-py>` # a repackaged version of pybox2d
 
 ### pip3:
 Use conda and cd to the dictionary of any (virtual) environment.
@@ -79,11 +79,11 @@ Take the first environment as an example.
 
 Open Anaconda Prompt and enter:
 
-cd C:\download\anaconda\envs\dl
+`<cd C:\download\anaconda\envs\dl>`
 
 Then type:
 
-python -m pip install --upgrade pip --force-reinstall
+`<python -m pip install --upgrade pip --force-reinstall>`
 
 Repeat this process for each environment.
 
@@ -105,11 +105,13 @@ One feasible solution seems to be using "pip3" command instead of "pip" during i
 Personally, I downloaded Unity 2018.2.8f1 and it works well with all the other packages. 
 
 ### ML-Agent:
-Follow some instructions provided by:
+Thank to Rahul's kind assistance, I just follow some instructions provided by:
 
 https://github.com/reinforcement-learning-kr/pg_travel/wiki/Installing-Unity-ml-agents-on-Windows
 
-Download the rest packages with "pip3" command.
+Download all the rest packages with "pip3" command.
+
+
 
 
 
