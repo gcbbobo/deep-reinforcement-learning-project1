@@ -1,4 +1,12 @@
 # deep-reinforcement-learning-project1
+#######################################################################################################################
+
+All the links below are listed without asking for permission. Any owner of the resources/ author of the articles
+can contact me through email to remove the links in README.md that connect to their online proverties. 
+
+My email address is: freedomgu@foxmail.com. Apologize for any inconvenience in advance. 
+
+#######################################################################################################################
 ## 1. The Environment
 The target of the project is to train an agent to navigate around a square world and collect yellow bananas as many as possible while avoiding the blue ones.
 
@@ -124,13 +132,21 @@ A link for my ML-Agent package is provided:
 https://drive.google.com/file/d/1eguoN8lslH5qmRKJoBGKoyyVSSnH835E/view?usp=sharing
 
 ## 3.Instructions
-The following codes are developed based on the sample codes provided by Udacity. 
+The following codes are developed based on the sample codes provided by Udacity.
+
 Navigation.ipynb + dqn_agent.py + model.py : Vanilla Deep Q-Network
+
 Run the cells in Navigation.ipynb to see the result.
+
 Navigation_doubleDQN.ipynb + dqn_agent_doubleDQN.py + model.py: Double Deep Q-Network
+
 Run Navigation_doubleDQN.ipynb.
+
 Navigation_dualDQN.ipynb + dqn_agent_dualDQN.py + model_dualDQN.py: Dual Network Architecture for Vanilla Deep Q-Network
+
 Run Navigation_dualDQN.ipynb.
+
 Some details can also be checked on the link below which I find helpful for beginners, though the steps seem to be self-evident:
+
 https://github.com/dxyang/DQN_pytorch
 
