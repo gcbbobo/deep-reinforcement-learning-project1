@@ -4,7 +4,7 @@ The target of the project is to train an agent to navigate around a square world
 
 ![image](https://github.com/gcbbobo/deep-reinforcement-learning-project1/blob/master/banana.gif)
 
-##### Reward:
+#### Reward:
 Collecting a yellow banana: reward +1
 
 Collecting a blue banana:   reward -1
