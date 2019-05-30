@@ -14,6 +14,7 @@ The state space has 37 dimensions including the velocity of the agent and the po
 
 ### Action:
 4 discrete actions available:
+
 0 - move forward.
 
 1 - move backward.
