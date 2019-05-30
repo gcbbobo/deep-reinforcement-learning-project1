@@ -117,7 +117,8 @@ https://github.com/reinforcement-learning-kr/pg_travel/wiki/Installing-Unity-ml-
 
 Download all the rest packages with "pip3" command.
 
-The ML-Agent package is also uploaded on my github for reference.
+A link for the ML-Agent package is provided:
 
+https://drive.google.com/file/d/1eguoN8lslH5qmRKJoBGKoyyVSSnH835E/view?usp=sharing
 
 
