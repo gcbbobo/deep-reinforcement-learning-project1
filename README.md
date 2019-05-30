@@ -29,8 +29,8 @@ https://inmachineswetrust.com/posts/deep-learning-setup/
 
 Be sure to work with python 3.x. As far as I can remember, I particularly downloaded python 3.6.8 to work with ML-Agents and I am not sure which versions would also work well.
 
-### CUDA and cuDNN(if GPU available)
-Google/Baidu CUDA and cuDNN and download packages that corresponding to the GPU. 
+### CUDA and cuDNN
+If GPU available, go to the official website for CUDA and cuDNN.Download packages that corresponding to the GPU. 
 
 For GPU Training using The ML-Agents Toolkit, only CUDA v9.0 and cuDNN v7.0.5 is supported at present.
 
@@ -38,9 +38,9 @@ https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Wi
 
 ### TensorFlow: 
 For ml agent:
-pip install tensorflow==1.7.1
+'<pip install tensorflow==1.7.1
 
-pip install tensorflow-gpu==1.7.1
+pip install tensorflow-gpu==1.7.1>'
 
 ### PyTorch:
 Follow the official guide:
@@ -105,7 +105,11 @@ One feasible solution seems to be using "pip3" command instead of "pip" during i
 Personally, I downloaded Unity 2018.2.8f1 and it works well with all the other packages. 
 
 ### ML-Agent:
+Follow some instructions provided by:
 
+https://github.com/reinforcement-learning-kr/pg_travel/wiki/Installing-Unity-ml-agents-on-Windows
+
+Download the rest packages with "pip3" command.
 
 
 
