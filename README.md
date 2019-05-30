@@ -2,7 +2,7 @@
 ###########################################################################################
 
 All the links below are listed without asking for permission. Any owner of the resources/ author of the articles
-can contact me through email to remove the links in README.md that connect to their online proverties. 
+can contact me through email to remove the links in README.md that connect to their online properties. 
 
 My email address is: freedomgu@foxmail.com. Apologize for any inconvenience in advance. 
 
