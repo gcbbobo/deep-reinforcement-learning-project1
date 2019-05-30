@@ -1,12 +1,12 @@
 # deep-reinforcement-learning-project1
-#######################################################################################################################
+###########################################################################################
 
 All the links below are listed without asking for permission. Any owner of the resources/ author of the articles
 can contact me through email to remove the links in README.md that connect to their online proverties. 
 
 My email address is: freedomgu@foxmail.com. Apologize for any inconvenience in advance. 
 
-#######################################################################################################################
+###########################################################################################
 ## 1. The Environment
 The target of the project is to train an agent to navigate around a square world and collect yellow bananas as many as possible while avoiding the blue ones.
 
