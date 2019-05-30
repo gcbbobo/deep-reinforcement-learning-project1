@@ -124,5 +124,8 @@ A link for my ML-Agent package is provided:
 https://drive.google.com/file/d/1eguoN8lslH5qmRKJoBGKoyyVSSnH835E/view?usp=sharing
 
 ## 3.Instructions
+The following codes are developed based on the sample codes provided by Udacity. 
+Navigation.ipynb + dqn_agent.py + model.py : Vanilla Deep Q-Network
+Just run the cells in Navigation.ipynb to see the result.
 
 
