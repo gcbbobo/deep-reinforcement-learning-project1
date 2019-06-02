@@ -131,6 +131,12 @@ A link for my ML-Agent package is provided:
 
 https://drive.google.com/file/d/1eguoN8lslH5qmRKJoBGKoyyVSSnH835E/view?usp=sharing
 
+#### Unity Environment: Navigation
+Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
+Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
+Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
+Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip
+
 ## 3.Instructions
 The following codes are developed based on the sample codes provided by Udacity.
 
